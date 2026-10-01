@@ -9,6 +9,18 @@
     </url>
 
     <url>
+        <loc>https://danielemarzolo.it/progetti.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://danielemarzolo.it/progetto-amedeo-iasci.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
         <loc>https://danielemarzolo.it/privacy.html</loc>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
